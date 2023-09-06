@@ -50,9 +50,9 @@
    */
 
   /* font-family */
-  --fontFamily-forum: 'Forum', cursive;
-  --fontFamily-dm_sans: 'DM Sans', sans-serif;
-
+  --font-family: "Open Sans", sans-serif;
+  --fontFamily-forum:  "Open Sans", sans-serif;
+  --fontFamily-dm_sans:  "Open Sans", sans-serif;
   /* font-size */
   --fontSize-display-1: calc(1.3rem + 6.7vw);
   --fontSize-headline-1: calc(2rem + 2.5vw);
