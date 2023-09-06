@@ -960,7 +960,7 @@ color: rgb(255, 0, 0);}
 
 .service .section-title { margin-block-end: 16px; }
 
-.service .section-text { margin-block-end: 40px; }
+.service .section-text { margin-block-end: 40px;font-size: 2.2rem; }
 
 .service-card { overflow: hidden; }
 
@@ -1086,7 +1086,7 @@ color: rgb(255, 0, 0);}
 
 .special-dish-content .del {
   text-decoration: none;
-  color: var(--davys-grey);
+  color: var(--white);
 }
 
 .special-dish-content .span { color: var(--gold-crayola); }
