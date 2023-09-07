@@ -222,7 +222,7 @@ body.nav-active { overflow: hidden; }
   line-height: var(--lineHeight-2);
 }
 
-..headline-21{
+.headline-21{
   color: var(--stablizer);
 }
 .title-4 {
@@ -800,9 +800,6 @@ color: rgb(255, 0, 0);}
 
 
 
-.section-title11{
-
-}
 
 
 .overlay {
@@ -969,7 +966,14 @@ color: rgb(255, 0, 0);}
   margin-block-end: 26px;
   z-index: 1;
 }
+.titleee{
+  font-family: var( --fontFamily-forum);
+  padding: 1rem;
+  font-weight: var(--weight-bolder);
+  font-size: var(--fontSize-headline-3) ;
+  color: #ffbf00;
 
+}
 .service-card .has-before::before {
   top: 0;
   left: 50%;
